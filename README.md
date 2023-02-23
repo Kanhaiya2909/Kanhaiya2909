@@ -13,6 +13,8 @@ I am a Full Stack Java Developer. I have a strong foundation in Java-based techn
 
 **Cloud** AWS.
 
+**Database** MySQL, MongoDB, PostgreSQL.
+
 **DevOps Tools** Zipkin, Swagger, Gatling, Grafana, Prometheus.
 
 
@@ -22,5 +24,35 @@ I am a Full Stack Java Developer. I have a strong foundation in Java-based techn
 [🔗 CodeChef](https://www.codechef.com/users/kanhaiyakk2909)
 
 [🔗 LeetCode](https://www.linkedin.com/) 
+
+
+# E-Commerce Website & App
+
+[🔗 Live Website](https://ecommerce.kanhaiyakumar.me/)
+
+[🔗 Play Store](https://play.google.com/store/apps/details?id=com.leomine.calculator)
+
+
+
+
+## Features
+
+- User SignUp, Login.
+- Fully Secured server
+- Password encrypted
+- All the basic features of e-commerce application.
+
+## ⚡️  Technologies
+**Backend:** SpringBoot.
+
+**Frontend-website:** Angular.
+
+**Frontend-Android & IOS:** Flutter.
+
+**Database** MySQL.
+
+**Cloud** AWS, Google - Firebase.
+
+
 
 
