@@ -23,7 +23,7 @@ I am a Full Stack Java Developer. I have a strong foundation in Java-based techn
 
 [🔗 CodeChef](https://www.codechef.com/users/kanhaiyakk2909)
 
-[🔗 LeetCode](https://www.linkedin.com/) 
+[🔗 LeetCode](https://leetcode.com/Kanhaiya2909/)
 
 
 # E-Commerce Website & App
