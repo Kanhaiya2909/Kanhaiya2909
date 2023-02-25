@@ -53,6 +53,7 @@ I am a Full Stack Java Developer. I have a strong foundation in Java-based techn
 
 **Cloud** AWS, Google - Firebase.
 
+## 🔥 Streak Stats
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kanhaiya2909&border_radius=11&mode=weekly)](https://git.io/streak-stats)
 
