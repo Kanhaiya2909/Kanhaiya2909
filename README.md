@@ -21,9 +21,6 @@ I am a Full Stack Java Developer. I have a strong foundation in Java-based techn
 ## 🔗 Portfolio & Solving coding problems
 [🔗 Portfolio](https://kanhaiyakumar.me/)
 
-[🔗 CodeChef](https://www.codechef.com/users/kanhaiyakk2909)
-
-[🔗 LeetCode](https://leetcode.com/Kanhaiya2909/)
 
 
 # E-Commerce Website & App
